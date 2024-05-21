@@ -2,24 +2,7 @@ using UnityEngine;
 
 internal class BeltAnimation : MonoBehaviour
 {
-    #region Variables
-
-    #endregion
-
-
     #region Unity Callbacks
-
-    private void Awake()
-    {
-
-    }
-
-
-    private void Start()
-    {
-
-    }
-
 
     private void Update()
     {
@@ -30,14 +13,5 @@ internal class BeltAnimation : MonoBehaviour
         }
     }
 
-
     #endregion
-
-
-
-
-
-
-
-
 }

@@ -8,18 +8,7 @@ internal class ConveyorPulleys : MonoBehaviour
 
     #endregion
 
-
     #region Unity Callbacks
-
-    private void Awake()
-    {
-    }
-
-
-    private void Start()
-    {
-
-    }
 
 
     private void Update()
@@ -32,23 +21,5 @@ internal class ConveyorPulleys : MonoBehaviour
 
     }
 
-    private void FixedUpdate()
-    {
-
-    }
-
-
-
     #endregion
-
-
-    #region Other Methods
-
-
-
-    #endregion
-
-
-
-
 }
